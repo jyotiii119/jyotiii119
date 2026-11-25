@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jyoti
 
-<!--
-**jyotiii119/jyotiii119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring BI Developer | Data Analyst
 
-Here are some ideas to get you started:
+I am a student developing practical skills in data analysis, business intelligence, and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Power BI:** Dashboard Development, Data Visualization, DAX ,Data modelling
+- **SQL:** PostgreSQL, Data Extraction, Data Analysis, 
+- **Excel:** Data Cleaning, Pivot Tables, Data Analysis
+- **Python:** Basics, Data Analysis
+
+### Projects
+
+**Loan Default Risk Analysis**
+- Database: PostgreSQL
+- Dashboard: Power BI
+- Analysed loan default trends across customer segments.
+- Developed a rule-based manual review dashboard.
+- Created DAX measures and interactive dashboard visuals for loan risk analysis.
+  
+### Currently Learning
+- Advanced Power BI
+- Data Modelling and DAX
+- SQL for Data Analysis
+- Python for Data Analysis
+- Business Intelligence
+
+### Career Interests
+Entry-Level BI Developer | Data Analyst
